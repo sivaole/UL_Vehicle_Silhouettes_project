@@ -64,8 +64,7 @@ NUMBER OF CLASSES
 4 OPEL, SAAB, BUS, VAN
 
 # Links:
-[Data](https://github.com/sivaole/UL_Vehicle_Silhouettes_project/blob/master/vehicle.csv)
-[ProblemStatement](https://github.com/sivaole/UL_Vehicle_Silhouettes_project/blob/master/Project_PCA.docx)
+[Data](https://github.com/sivaole/UL_Vehicle_Silhouettes_project/blob/master/vehicle.csv)  
 [Link to the report(detailed analysis) - Report]()   
 [Source code](https://github.com/sivaole/UL_Vehicle_Silhouettes_project/blob/master/UL_Vehicle_Silhouettes_project.ipynb)
 
